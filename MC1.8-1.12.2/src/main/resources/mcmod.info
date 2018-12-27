@@ -1,0 +1,16 @@
+[
+{
+  "modid": "the5zigfix",
+  "name": "The 5zig Fix",
+  "description": "Fix The 5zig Mod Crash in Minecraft Netease Edition.",
+  "version": "2.0",
+  "mcversion": "[1.8,1.12.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZekerZhayard"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
